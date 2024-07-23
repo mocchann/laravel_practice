@@ -1,0 +1,6 @@
+{
+  "vim.hlsearch": false,
+  "vim.leader": "<space>",
+  "vim.easymotion": true,
+  "vim.easymotionKeys": "sdfghjkl",
+}
